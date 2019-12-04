@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/route",
-	"version": "6.1.19",
+	"version": "6.1.20",
 	"description": "ctx-core route",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/store": "^12.1.7"
+		"@ctx-core/store": "^12.1.8"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.3"
