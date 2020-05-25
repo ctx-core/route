@@ -2,6 +2,7 @@
 	"name": "@ctx-core/route",
 	"version": "6.2.27",
 	"description": "ctx-core route",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
