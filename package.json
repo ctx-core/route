@@ -33,7 +33,7 @@
 		"@ctx-core/store": "^13.1.32"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.3"
+		"typescript": "^3.9.5"
 	},
 	"gitHead": "81a7793818eda7ddaba3523c7ee1b8dca745cece"
 }
