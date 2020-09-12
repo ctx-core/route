@@ -1,6 +1,4 @@
-import { writable } from 'svelte/store'
-// @ts-ignore
-import { subscribe__debug } from '@ctx-core/store'
+import { writable } from '@ctx-core/store'
 import { _b } from '@ctx-core/object'
 export const b__route = _b('__route', ()=>
 	writable(''))
