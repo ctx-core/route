@@ -1,5 +1,17 @@
 # @ctx-core/route
 
+## 7.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.0
+  - @ctx-core/store@17.0.0
+
 ## 6.2.89
 
 ### Patch Changes
