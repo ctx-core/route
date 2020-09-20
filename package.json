@@ -1,40 +1,39 @@
 {
-  "name": "@ctx-core/route",
-  "version": "7.0.1",
-  "description": "ctx-core route",
-  "keywords": [
-    "ctx-core",
-    "route"
-  ],
-  "homepage": "https://github.com/ctx-core/route#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/route/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/route/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "lib.js",
-  "module": "lib.js",
-  "types": "lib.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/object": "workspace:*",
-    "@ctx-core/store": "workspace:*"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "9ca84cfcb219b4210a539f3554d81c25e2bb6143"
+	"name": "@ctx-core/route",
+	"version": "7.0.1",
+	"description": "ctx-core route",
+	"keywords": [
+		"ctx-core",
+		"route"
+	],
+	"homepage": "https://github.com/ctx-core/route#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/route/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/route/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "lib.js",
+	"module": "lib.js",
+	"types": "lib.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/object": "workspace:*",
+		"@ctx-core/store": "workspace:*"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
