@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 7.0.2
+
+### Patch Changes
+
+- fix: index.js/index.ts are the main files for the package
+
 ## 7.0.1
 
 ### Patch Changes
