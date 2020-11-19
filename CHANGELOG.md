@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 7.0.57
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+- Updated dependencies [undefined]
+  - @ctx-core/object@13.0.2
+  - @ctx-core/store@23.0.13
+
 ## 7.0.56
 
 ### Patch Changes
