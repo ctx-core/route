@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 7.1.7
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.5
+  - @ctx-core/store@23.1.9
+
 ## 7.1.6
 
 ### Patch Changes
