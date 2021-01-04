@@ -1,2 +1,2 @@
-export declare const route_query_b: (ctx: object, opts?: import("@ctx-core/object")._be_opts_type | undefined) => import("@ctx-core/store").Writable<{}>;
+export declare const route_query_b: import("@ctx-core/object").be_type<import("@ctx-core/store").Writable<{}>, object>;
 export { route_query_b as b__query__route, };

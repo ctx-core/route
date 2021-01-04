@@ -1,2 +1,2 @@
-export declare const route_b: (ctx: object, opts?: import("@ctx-core/object")._be_opts_type | undefined) => import("@ctx-core/store").Writable<string>;
+export declare const route_b: import("@ctx-core/object").be_type<import("@ctx-core/store").Writable<string>, object>;
 export { route_b as b__route };
