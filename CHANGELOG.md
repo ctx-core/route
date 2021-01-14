@@ -1,5 +1,12 @@
 # @ctx-core/route
 
+## 7.1.30
+
+### Patch Changes
+
+- @ctx-core/object@16.0.4
+- @ctx-core/store@23.3.4
+
 ## 7.1.29
 
 ### Patch Changes
