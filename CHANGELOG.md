@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 8.0.1
+
+### Patch Changes
+
+- @ctx-core/store@24.0.1
+
 ## 8.0.0
 
 ### Major Changes
