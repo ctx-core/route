@@ -1,5 +1,17 @@
 # @ctx-core/route
 
+## 8.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.0.0
+  - @ctx-core/store@24.0.0
+
 ## 7.1.37
 
 ### Patch Changes
