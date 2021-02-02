@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/route",
-	"version": "8.0.3",
+	"version": "8.0.4",
 	"description": "ctx-core route",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^17.0.1",
-		"@ctx-core/store": "workspace:^24.0.3"
+		"@ctx-core/store": "workspace:^24.0.4"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
