@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 8.0.32
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.1
+  - @ctx-core/store@24.1.14
+
 ## 8.0.31
 
 ### Patch Changes
