@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 8.0.63
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.0.62
 
 ### Patch Changes
