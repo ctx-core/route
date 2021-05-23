@@ -1,9 +1,7 @@
 import { _b } from '@ctx-core/object'
 import { writable$, Writable$ } from '@ctx-core/store'
+import type { route_Ctx } from './route_Ctx'
 const key = 'route'
-export interface route_Ctx {
-	route?:route_T
-}
 export const route_b = _b<route_Ctx, typeof key>(key, ()=>
 	writable$(''))
 export type $route_T = string

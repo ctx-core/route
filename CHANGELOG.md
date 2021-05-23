@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 8.2.0
+
+### Minor Changes
+
+- - route_Ctx
+
 ## 8.1.7
 
 ### Patch Changes
