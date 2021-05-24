@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 8.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.1.1
+  - @ctx-core/store@24.9.1
+
 ## 8.3.0
 
 ### Minor Changes
