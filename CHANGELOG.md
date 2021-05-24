@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 8.2.2
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/store@24.8.9
+
 ## 8.2.1
 
 ### Patch Changes
