@@ -1,5 +1,17 @@
 # @ctx-core/route
 
+## 8.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.1.0
+  - @ctx-core/store@24.9.0
+
 ## 8.2.3
 
 ### Patch Changes
