@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 8.4.4
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.4.3
 
 ### Patch Changes
