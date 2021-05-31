@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 9.0.2
+
+### Patch Changes
+
+- _b->be_
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.0.2
+
 ## 9.0.1
 
 ### Patch Changes
@@ -979,7 +987,7 @@
 
 ### Minor Changes
 
-- \_b: required ctx argument & generic type updates
+- \be\_: required ctx argument & generic type updates
 - Extract separate modules
 
 ### Patch Changes
