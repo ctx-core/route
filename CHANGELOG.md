@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 9.0.13
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.3
+  - @ctx-core/store@25.1.13
+
 ## 9.0.12
 
 ### Patch Changes
