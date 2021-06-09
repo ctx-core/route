@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 9.0.17
+
+### Patch Changes
+
+- fix: B: inferred type issue
+
 ## 9.0.16
 
 ### Patch Changes
