@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 10.0.10
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.1.1
+  - @ctx-core/store@26.0.12
+
 ## 10.0.9
 
 ### Patch Changes
