@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 10.0.19
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/store@26.0.23
+
 ## 10.0.18
 
 ### Patch Changes
