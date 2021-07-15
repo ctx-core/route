@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 11.0.3
+
+### Patch Changes
+
+- import: + .js extention
+
 ## 11.0.2
 
 ### Patch Changes
