@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 11.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.8
+  - @ctx-core/store@27.0.7
+
 ## 11.0.7
 
 ### Patch Changes
