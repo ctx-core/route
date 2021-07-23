@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 11.0.15
+
+### Patch Changes
+
+- fix: \*\_ctx_I.generated
+
 ## 11.0.14
 
 ### Patch Changes
