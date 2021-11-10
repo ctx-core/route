@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 11.0.25
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/object@21.0.22
+  - @ctx-core/store@27.0.36
+
 ## 11.0.24
 
 ### Patch Changes
