@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 12.0.0
+
+### Major Changes
+
+- simplify types: route$_T{-route_T},route_query$\_T{-route_query_T}
+
 ## 11.0.26
 
 ### Patch Changes
