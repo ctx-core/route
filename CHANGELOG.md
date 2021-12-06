@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 12.0.8
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/store@27.0.45
+
 ## 12.0.7
 
 ### Patch Changes
