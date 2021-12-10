@@ -1,5 +1,19 @@
 # @ctx-core/route
 
+## 13.0.0
+
+### Major Changes
+
+- \*\_b: ctx is a map: @ctx-core/object: 22.0.0
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+  - @ctx-core/store@27.0.46
+
 ## 12.0.8
 
 ### Patch Changes
