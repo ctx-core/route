@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 13.0.2
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/object@22.0.2
+  - @ctx-core/store@27.0.49
+
 ## 13.0.1
 
 ### Patch Changes
