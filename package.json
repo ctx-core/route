@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/route",
-	"version": "13.0.8",
+	"version": "14.0.0",
 	"description": "ctx-core route",
 	"keywords": [
 		"ctx-core",
@@ -35,12 +35,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.8",
-		"@ctx-core/store": "workspace:^27.0.55"
+		"@ctx-core/nanostores": "workspace:^0.1.0",
+		"@ctx-core/object": "workspace:^22.0.8"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.120",
+		"@swc/core": "^1.2.121",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
