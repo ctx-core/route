@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/route",
-	"version": "14.0.9",
+	"version": "14.0.10",
 	"description": "ctx-core route",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "workspace:^0.3.4",
+		"@ctx-core/nanostores": "workspace:^0.3.5",
 		"@ctx-core/object": "workspace:^22.0.12"
 	},
 	"devDependencies": {
