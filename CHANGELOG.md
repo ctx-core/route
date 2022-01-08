@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 14.0.9
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/nanostores@0.3.4
+  - @ctx-core/object@22.0.12
+
 ## 14.0.8
 
 ### Patch Changes
