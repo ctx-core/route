@@ -1,9 +1,6 @@
-import { B, be_ } from '@ctx-core/object'
 import { atom$, WritableAtom$ } from '@ctx-core/nanostores'
+import { B, be_ } from '@ctx-core/object'
 const key = 'route$'
-export const route$_b:B<route$_T> = be_(key, ()=>
+export const route$_:B<route$_T> = be_(key, ()=>
 	atom$(''))
 export type route$_T = WritableAtom$<string>
-export {
-	route$_b as b__route
-}
