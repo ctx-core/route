@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.0.18
+
+### Patch Changes
+
+- update dependencies
+
 ## 15.0.17
 
 ### Patch Changes
