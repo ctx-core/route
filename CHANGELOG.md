@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.0.21
+
+### Patch Changes
+
+- @ctx-core/object: 22.2.0
+
 ## 15.0.20
 
 ### Patch Changes
