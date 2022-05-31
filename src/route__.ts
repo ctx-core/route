@@ -1,5 +1,5 @@
 import { atom_, WritableAtom_ } from '@ctx-core/nanostores'
 import { B, be_ } from '@ctx-core/object'
-export const route$_:B<route$_T> = be_('route$', ()=>
+export const route__:B<WritableAtom_<string>> = be_('route__', ()=>
 	atom_(''))
-export type route$_T = WritableAtom_<string>
+export { route__ as route$_ }
