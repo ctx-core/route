@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.1.23
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 15.1.22
 
 ### Patch Changes
