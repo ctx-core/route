@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 15.1.27
 
 ### Patch Changes
