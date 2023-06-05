@@ -1,5 +1,16 @@
 # @ctx-core/route
 
+## 15.3.0
+
+### Minor Changes
+
+- new functions:
+
+      + route_
+      + route__set
+      + route_query_
+      + route_query__set
+
 ## 15.2.80
 
 ### Patch Changes
