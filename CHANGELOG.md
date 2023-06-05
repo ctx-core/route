@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 15.2.80
+
+### Patch Changes
+
+- @ctx-core/object: ^28.0.0 -> ^28.0.1
+- Updated dependencies
+  - @ctx-core/nanostores@4.2.6
+
 ## 15.2.79
 
 ### Patch Changes
