@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.3.1
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^4.2.6 -> ^4.2.7
+
 ## 15.3.0
 
 ### Minor Changes
