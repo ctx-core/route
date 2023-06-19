@@ -1,8 +1,8 @@
-import { atom_, be_atom_triple_ } from '@ctx-core/nanostores'
+import { val__be_atom_triple_ } from '@ctx-core/nanostores'
 export const [
 	route$_,
 	route_,
 	route__set,
-] = be_atom_triple_('route$_', ()=>
-	atom_(''))
+] = val__be_atom_triple_('route$_', ()=>
+	'')
 export { route$_ as route__ }

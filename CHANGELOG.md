@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.3.9
+
+### Patch Changes
+
+- route$_,route_,route\_\_set: fix: type
+
 ## 15.3.8
 
 ### Patch Changes
