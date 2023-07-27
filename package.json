@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/route",
-	"version": "15.3.19",
+	"version": "15.3.20",
 	"description": "ctx-core route",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^5.2.9",
+		"@ctx-core/nanostores": "^6.0.0",
 		"@ctx-core/object": "^28.0.3"
 	},
 	"devDependencies": {
