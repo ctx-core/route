@@ -1,2 +1,2 @@
-export * from './route$_'
-export * from './route_query$_'
+export * from './route'
+export * from './route_query'

@@ -1,2 +1,2 @@
-export * from './route$_/index.js'
-export * from './route_query$_/index.js'
+export * from './route/index.js'
+export * from './route_query/index.js'

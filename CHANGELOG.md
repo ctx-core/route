@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.3.25
+
+### Patch Changes
+
+- rename directories: remove $\_ suffix
+
 ## 15.3.24
 
 ### Patch Changes
