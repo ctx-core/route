@@ -1,5 +1,23 @@
 # @ctx-core/route
 
+## 15.4.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/nanostores@7.1.0
+
 ## 15.3.39
 
 ### Patch Changes
