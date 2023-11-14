@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 15.4.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/nanostores@7.1.3
+
 ## 15.4.1
 
 ### Patch Changes
