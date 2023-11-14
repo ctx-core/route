@@ -1,5 +1,13 @@
 # @ctx-core/route
 
+## 15.4.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/nanostores@7.1.4
+
 ## 15.4.2
 
 ### Patch Changes
