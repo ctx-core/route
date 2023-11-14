@@ -1,5 +1,14 @@
 # @ctx-core/route
 
+## 15.4.1
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^7.1.0 -> ^7.1.1
+- tsx: ^4.0.0 -> ^4.1.2
+- Updated dependencies
+  - @ctx-core/nanostores@7.1.2
+
 ## 15.4.0
 
 ### Minor Changes
