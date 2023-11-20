@@ -5,6 +5,5 @@ export const [
 	route_,
 	route__set,
 ] = /** @type {be_atom_triple_T<string>} */be_atom_triple_(()=>
-	'')
-	.config({ id: 'route' })
+	'', { id: 'route' })
 export { route$_ as route__ }
