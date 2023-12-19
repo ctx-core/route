@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 15.4.60
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 15.4.59
 
 ### Patch Changes
