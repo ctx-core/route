@@ -21,8 +21,8 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./route",
-		"./route_query"
+		"route",
+		"route_query"
 	],
 	"types": "./index.d.ts",
 	"exports": {
