@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 16.0.0
+
+### Major Changes
+
+- rmemo instead of @ctx-core/nanostores
+
 ## 15.4.71
 
 ### Patch Changes
