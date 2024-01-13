@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 16.0.17
+
+### Patch Changes
+
+- ctx-core: ^5.18.0 -> ^5.18.1
+
 ## 16.0.16
 
 ### Patch Changes
