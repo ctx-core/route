@@ -1,5 +1,11 @@
 # @ctx-core/route
 
+## 16.0.119
+
+### Patch Changes
+
+- ctx-core: ^7.2.9 -> ^7.2.10
+
 ## 16.0.118
 
 ### Patch Changes
